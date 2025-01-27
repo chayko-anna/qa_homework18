@@ -1,0 +1,7 @@
+pytest~=8.3.4
+requests~=2.32.3
+jsonschema~=4.23.0
+selene~=2.0.0rc9
+allure-pytest
+selenium~=4.28.0
+allure-python-commons~=2.13.5
